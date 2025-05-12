@@ -91,3 +91,5 @@ liable 責任
 inadvertently 不注意に
 advertently 適切に
 advert 注意を向ける
+decay 減衰
+crate 木箱
