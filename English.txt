@@ -8,6 +8,7 @@ empathy 共感←中に入って一緒に感じる
 on par with...と同等である、同レベルである
 foster 養育する
 subsider 子会社
+
 promiscuous 乱交的な
 appendix 付録
 anatomy 解剖学
@@ -17,6 +18,7 @@ synonyms 同意語
 mucous membrane 年末
 cedar 杉
 cypress ひのき
+
 inhale 吸い込む
 arbitary 任意の
 cardinalty 濃度
@@ -26,6 +28,7 @@ upheaval 大変動
 formidable 恐ろしい・威圧的な
 contraction 縮約
 punctuation 句読点
+
 optimally 最適に、最も効率的に
 concede 譲歩する・スポーツで得点を許す
 spectrum 範囲
@@ -35,6 +38,7 @@ stem 幹・語幹
 lemmatize 見出し語化
 viral インターネットなどで拡散する
 fauset 蛇口
+
 daunt 威圧する
 naughty いたずらな、不適切な
 weld 溶接
@@ -44,6 +48,7 @@ tangential：数学の「tangent（接線）」に「本筋に対して接して
 tangential discussion 脇道にそれた議論
 heulistic 経験則・直感的なルールや方法
 cognitive 認識・認知
+
 pereptuate 永続する
 characteristic (人・生物の)特徴
 feature (物の)特徴
@@ -53,6 +58,7 @@ manifestation 顕示
 implication 影響、結果、波及効果
 reprieve 猶予
 clandestine 秘密の(隠れて秘密裏であることを強調,secretは単に知られていないこと)
+
 bauble 安物の宝石
 contingent on....を条件とする
 obsolate 廃止
@@ -62,6 +68,7 @@ mitigate 緩和する
 coherent 筋の通った
 stiff 硬い
 juvenile 少年
+
 precedent 先例
 transformative 変換
 contentious 論争 
@@ -71,6 +78,7 @@ infringe on 侵害する
 inadvertently 不注意に
 lenient 寛大
 flux 不定、流動的
+
 precedent 先例
 infringement 侵害
 immersive 没入
@@ -80,6 +88,7 @@ abrupt 突然
 tenet 教養
 infraction 違反
 scrutiny 精査
+
 forge 鍛える
 wear 磁気ディスクの摩耗
 tear 磁気ディスクの破損
@@ -89,7 +98,15 @@ cability clauses 免責条項
 quantum computing 量子コンピューティング
 liable 責任
 inadvertently 不注意に
+
 advertently 適切に
 advert 注意を向ける
 decay 減衰
 crate 木箱
+expertise 専門知識
+deterioration 劣化
+humiliate 恥辱
+slingshot ぱちんこ
+restitution 賠償
+
+
